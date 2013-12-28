@@ -2,6 +2,11 @@
 Changelog for package roscpp_serialization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.17 (2013-12-28)
+-------------------
+* move several client library independent parts from ros_comm into roscpp_core (fix `#12 <https://github.com/trainman419/roscpp_core/issues/12>`_)
+* Contributors: Tully Foote
+
 0.3.16 (2013-07-14)
 -------------------
 * fix alignment in serialization on ARM (`#14 <https://github.com/ros/roscpp_core/issues/14>`_)

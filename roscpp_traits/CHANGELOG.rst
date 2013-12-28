@@ -2,6 +2,13 @@
 Changelog for package roscpp_traits
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.17 (2013-12-28)
+-------------------
+* fix compilation with libc++ (fix `#15 <https://github.com/trainman419/roscpp_core/issues/15>`_)
+* fix comment
+* move several client library independent parts from ros_comm into roscpp_core (fix `#12 <https://github.com/trainman419/roscpp_core/issues/12>`_)
+* Contributors: Dirk Thomas, Tully Foote
+
 0.3.16 (2013-07-14)
 -------------------
 

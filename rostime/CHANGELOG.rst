@@ -2,6 +2,11 @@
 Changelog for package rostime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.17 (2013-12-28)
+-------------------
+* fix boost include dir
+* Contributors: Dirk Thomas
+
 0.3.16 (2013-07-14)
 -------------------
 * support for CATKIN_ENABLE_TESTING
