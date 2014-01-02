@@ -2,6 +2,11 @@
 Changelog for package cpp_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.18 (2014-01-02)
+-------------------
+* Add run_depend on console_bridge.
+* Contributors: trainman419
+
 0.3.17 (2013-12-28)
 -------------------
 * move several client library independent parts from ros_comm into roscpp_core (fix `#12 <https://github.com/trainman419/roscpp_core/issues/12>`_)

@@ -2,6 +2,9 @@
 Changelog for package roscpp_traits
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.18 (2014-01-02)
+-------------------
+
 0.3.17 (2013-12-28)
 -------------------
 * fix compilation with libc++ (fix `#15 <https://github.com/trainman419/roscpp_core/issues/15>`_)
